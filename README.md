@@ -1,3 +1,15 @@
+![vowel](https://user-images.githubusercontent.com/90270842/135700805-586e674e-6370-4ee8-883a-ade4ceaf1979.jpeg)
+![removeChar](https://user-images.githubusercontent.com/90270842/135700607-59995887-cc65-442d-8ec4-c734be5ba8f4.jpeg)
+![smallestinterger](https://user-images.githubusercontent.com/90270842/135700632-f4af906f-9acd-4be9-8498-4e5d99d168a7.jpeg)
+<img width="1111" alt="posSum" src="https://user-images.githubusercontent.com/90270842/135700648-60712105-d72c-4a1a-9abd-06e70a8842cb.png">
+![shortest](https://user-images.githubusercontent.com/90270842/135700657-b0a8d2ab-4429-4f24-9f80-32a28007394c.jpeg)
+!(https://user-images.githubusercontent.com/90270842/135700505-57fc8ff5-8c75-4849-b9f0-271c317ada22.jpeg)
+
+
+
+
+
+
 # Codewars Extravaganza
 
 Today we'll be solving coding challenges on the CodeWars platform! Start about by making an account and setting your clan as "Code Immersives". 
